@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/CryptoApp/static/js/main.c73fe1d4.js",
+    "static/js/787.7428ec8d.chunk.js": "/CryptoApp/static/js/787.7428ec8d.chunk.js",
+    "index.html": "/CryptoApp/index.html",
+    "main.c73fe1d4.js.map": "/CryptoApp/static/js/main.c73fe1d4.js.map",
+    "787.7428ec8d.chunk.js.map": "/CryptoApp/static/js/787.7428ec8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c73fe1d4.js"
+  ]
+}
